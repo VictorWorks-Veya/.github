@@ -3,13 +3,13 @@
 > **The Veya Stack** • Neural. Scalable. Fast. 🚀
 > *Building Systems. Creating Legacies.*
 
-VictorWorks is a premier **Creative Technology Agency** powering ambitious brands. We bridge the absolute gap between deep-tech engineering, high-end design architecture, and strategic growth to engineer a brighter, better future.
+VictorWorks is a premier **Creative Technology Agency** powering ambitious brands. We bridge the absolute gap between deep-tech engineering, high-end design architecture, and strategic growth to engineer a brighter, better future. Founded by Victor Chukwuebuka (Mr. Vexo).
 
 ---
 
 ## 🏗️ Core Ecosystem
 
-### ⚡ [The Veya Stack](https://vicks-bear.lovable.app)
+### ⚡ [The Veya Stack](https://Veya.stack)
 Our flagship, high-performance framework architecture engineered specifically for modern, speed-critical web, native mobile, and enterprise infrastructure systems.
 
 ### 💻 Ventures & Developments
